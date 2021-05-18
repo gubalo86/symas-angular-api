@@ -1,0 +1,14 @@
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\bin\Debug\netcoreapp3.1\Symas.Core.Service.deps.json
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\bin\Debug\netcoreapp3.1\Symas.Core.Service.dll
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\bin\Debug\netcoreapp3.1\Symas.Core.Service.pdb
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\bin\Debug\netcoreapp3.1\Symas.Core.Repository.dll
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\bin\Debug\netcoreapp3.1\Symas.Core.Validation.dll
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\bin\Debug\netcoreapp3.1\Symas.Core.Repository.pdb
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\bin\Debug\netcoreapp3.1\Symas.Core.Validation.pdb
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\obj\Debug\netcoreapp3.1\Symas.Core.Service.csprojAssemblyReference.cache
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\obj\Debug\netcoreapp3.1\Symas.Core.Service.AssemblyInfoInputs.cache
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\obj\Debug\netcoreapp3.1\Symas.Core.Service.AssemblyInfo.cs
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\obj\Debug\netcoreapp3.1\Symas.Core.Service.csproj.CoreCompileInputs.cache
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\obj\Debug\netcoreapp3.1\Symas.Core.Service.csproj.CopyComplete
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\obj\Debug\netcoreapp3.1\Symas.Core.Service.dll
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.Core.Service\obj\Debug\netcoreapp3.1\Symas.Core.Service.pdb

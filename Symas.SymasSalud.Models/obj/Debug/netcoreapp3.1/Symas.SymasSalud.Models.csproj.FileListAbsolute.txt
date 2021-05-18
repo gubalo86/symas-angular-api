@@ -1,0 +1,17 @@
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.SymasSalud.Models\bin\Debug\netcoreapp3.1\Symas.SymasSalud.Models.deps.json
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.SymasSalud.Models\bin\Debug\netcoreapp3.1\Symas.SymasSalud.Models.dll
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.SymasSalud.Models\bin\Debug\netcoreapp3.1\Symas.SymasSalud.Models.pdb
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.AssemblyInfoInputs.cache
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.AssemblyInfo.cs
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.csproj.CoreCompileInputs.cache
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.dll
+D:\Documentos\VisualStudio2019\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.pdb
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\bin\Debug\netcoreapp3.1\Symas.SymasSalud.Models.deps.json
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\bin\Debug\netcoreapp3.1\Symas.SymasSalud.Models.dll
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\bin\Debug\netcoreapp3.1\Symas.SymasSalud.Models.pdb
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.csprojAssemblyReference.cache
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.AssemblyInfoInputs.cache
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.AssemblyInfo.cs
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.csproj.CoreCompileInputs.cache
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.dll
+E:\Documentos\VisualStudio2019\Angular\lf-Package-Core\Symas.SymasSalud.Models\obj\Debug\netcoreapp3.1\Symas.SymasSalud.Models.pdb

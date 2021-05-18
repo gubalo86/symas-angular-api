@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lf-Package-Core", "lf-Package-Core\lf-Package-Core.csproj", "{4DCDDFD4-482B-4626-9F6F-B619448EE374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symas.Core.Repository", "Symas.Core.Repository\Symas.Core.Repository.csproj", "{B689B39F-D391-45C5-AFEF-2B15909EC541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symas.Core.Service", "Symas.Core.Service\Symas.Core.Service.csproj", "{52C44703-B101-4863-84FE-8DC5003603CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symas.Core.Validation", "Symas.Core.Validation\Symas.Core.Validation.csproj", "{B838303D-94BA-49CB-8F81-03CC20F23106}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{01A0BDE3-31E8-44DD-BB31-89866196B828}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{06DF5394-F07E-4751-B1D3-2379B158C3B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{58C69D62-7D76-451D-B50D-080AB6372AC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symas.SymasSalud.Models", "Symas.SymasSalud.Models\Symas.SymasSalud.Models.csproj", "{B8E117CC-3866-4F3B-A3B7-80156D6B219D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symas.SymasSalud.Repositories", "Symas.SymasSalud.Repositories\Symas.SymasSalud.Repositories.csproj", "{AC319ED3-8817-4B54-922A-6D3B267EB3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symas.SymasSalud.Repositories.SqlServer", "Symas.SymasSalud.Repositories.SqlServer\Symas.SymasSalud.Repositories.SqlServer.csproj", "{7316AEEC-30E7-41E5-A42B-3B77B9FE9851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symas.SymasSalud.Interfaces", "Symas.SymasSalud.Interfaces\Symas.SymasSalud.Interfaces.csproj", "{DC26551F-5511-412C-84CB-8E058E9939A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Symas.SymasSalud.Services", "Symas.SymasSalud.Services\Symas.SymasSalud.Services.csproj", "{AC0A321E-4939-49E2-9B0C-2E1EE48631A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DCDDFD4-482B-4626-9F6F-B619448EE374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCDDFD4-482B-4626-9F6F-B619448EE374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCDDFD4-482B-4626-9F6F-B619448EE374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCDDFD4-482B-4626-9F6F-B619448EE374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B689B39F-D391-45C5-AFEF-2B15909EC541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B689B39F-D391-45C5-AFEF-2B15909EC541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B689B39F-D391-45C5-AFEF-2B15909EC541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B689B39F-D391-45C5-AFEF-2B15909EC541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C44703-B101-4863-84FE-8DC5003603CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C44703-B101-4863-84FE-8DC5003603CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C44703-B101-4863-84FE-8DC5003603CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C44703-B101-4863-84FE-8DC5003603CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B838303D-94BA-49CB-8F81-03CC20F23106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B838303D-94BA-49CB-8F81-03CC20F23106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B838303D-94BA-49CB-8F81-03CC20F23106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B838303D-94BA-49CB-8F81-03CC20F23106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E117CC-3866-4F3B-A3B7-80156D6B219D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E117CC-3866-4F3B-A3B7-80156D6B219D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E117CC-3866-4F3B-A3B7-80156D6B219D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E117CC-3866-4F3B-A3B7-80156D6B219D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC319ED3-8817-4B54-922A-6D3B267EB3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC319ED3-8817-4B54-922A-6D3B267EB3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC319ED3-8817-4B54-922A-6D3B267EB3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC319ED3-8817-4B54-922A-6D3B267EB3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7316AEEC-30E7-41E5-A42B-3B77B9FE9851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7316AEEC-30E7-41E5-A42B-3B77B9FE9851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7316AEEC-30E7-41E5-A42B-3B77B9FE9851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7316AEEC-30E7-41E5-A42B-3B77B9FE9851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC26551F-5511-412C-84CB-8E058E9939A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC26551F-5511-412C-84CB-8E058E9939A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC26551F-5511-412C-84CB-8E058E9939A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC26551F-5511-412C-84CB-8E058E9939A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0A321E-4939-49E2-9B0C-2E1EE48631A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0A321E-4939-49E2-9B0C-2E1EE48631A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0A321E-4939-49E2-9B0C-2E1EE48631A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0A321E-4939-49E2-9B0C-2E1EE48631A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8E117CC-3866-4F3B-A3B7-80156D6B219D} = {01A0BDE3-31E8-44DD-BB31-89866196B828}
+		{AC319ED3-8817-4B54-922A-6D3B267EB3D1} = {06DF5394-F07E-4751-B1D3-2379B158C3B2}
+		{7316AEEC-30E7-41E5-A42B-3B77B9FE9851} = {06DF5394-F07E-4751-B1D3-2379B158C3B2}
+		{DC26551F-5511-412C-84CB-8E058E9939A9} = {58C69D62-7D76-451D-B50D-080AB6372AC7}
+		{AC0A321E-4939-49E2-9B0C-2E1EE48631A4} = {58C69D62-7D76-451D-B50D-080AB6372AC7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DE2946C-9464-464F-8B9A-7FBBC6AC334C}
+	EndGlobalSection
+EndGlobal

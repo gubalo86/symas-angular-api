@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Symas.Core.Repository\Symas.Core.Repository.csproj" />
+    <ProjectReference Include="..\Symas.SymasSalud.Models\Symas.SymasSalud.Models.csproj" />
+    <ProjectReference Include="..\Symas.SymasSalud.Repositories\Symas.SymasSalud.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
