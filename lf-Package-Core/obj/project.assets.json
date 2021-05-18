@@ -5369,23 +5369,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gustavo.banuelos\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\gubalo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documentos\\VisualStudio2019\\Angular\\lf-Package-Core\\lf-Package-Core\\lf-Package-Core.csproj",
+      "projectUniqueName": "D:\\Documentos\\Git-Projects\\symas-angular-api\\lf-Package-Core\\lf-Package-Core.csproj",
       "projectName": "lf-Package-Core",
-      "projectPath": "E:\\Documentos\\VisualStudio2019\\Angular\\lf-Package-Core\\lf-Package-Core\\lf-Package-Core.csproj",
-      "packagesPath": "C:\\Users\\gustavo.banuelos\\.nuget\\packages\\",
-      "outputPath": "E:\\Documentos\\VisualStudio2019\\Angular\\lf-Package-Core\\lf-Package-Core\\obj\\",
+      "projectPath": "D:\\Documentos\\Git-Projects\\symas-angular-api\\lf-Package-Core\\lf-Package-Core.csproj",
+      "packagesPath": "C:\\Users\\gubalo\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\Git-Projects\\symas-angular-api\\lf-Package-Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\gustavo.banuelos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gubalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5394,18 +5397,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/livefree/_packaging/livefree/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Documentos\\VisualStudio2019\\Angular\\lf-Package-Core\\Symas.SymasSalud.Repositories.SqlServer\\Symas.SymasSalud.Repositories.SqlServer.csproj": {
-              "projectPath": "E:\\Documentos\\VisualStudio2019\\Angular\\lf-Package-Core\\Symas.SymasSalud.Repositories.SqlServer\\Symas.SymasSalud.Repositories.SqlServer.csproj"
+            "D:\\Documentos\\Git-Projects\\symas-angular-api\\Symas.SymasSalud.Repositories.SqlServer\\Symas.SymasSalud.Repositories.SqlServer.csproj": {
+              "projectPath": "D:\\Documentos\\Git-Projects\\symas-angular-api\\Symas.SymasSalud.Repositories.SqlServer\\Symas.SymasSalud.Repositories.SqlServer.csproj"
             },
-            "E:\\Documentos\\VisualStudio2019\\Angular\\lf-Package-Core\\Symas.SymasSalud.Services\\Symas.SymasSalud.Services.csproj": {
-              "projectPath": "E:\\Documentos\\VisualStudio2019\\Angular\\lf-Package-Core\\Symas.SymasSalud.Services\\Symas.SymasSalud.Services.csproj"
+            "D:\\Documentos\\Git-Projects\\symas-angular-api\\Symas.SymasSalud.Services\\Symas.SymasSalud.Services.csproj": {
+              "projectPath": "D:\\Documentos\\Git-Projects\\symas-angular-api\\Symas.SymasSalud.Services\\Symas.SymasSalud.Services.csproj"
             }
           }
         }
@@ -5451,7 +5453,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OOwaffcdic8atTgTEftZcTa3u4EIBHhkIpREg/qrgpnpeLfxLoMj/9DanIMfaRGSt5fIR/zu8pdqpPmStrOptw==",
+  "dgSpecHash": "R1L0oSBQ8RG/umqo7UY/ep0rePF+rsxnw3j+6wiOpXsd7Ip4S3A0sP3GHwJu9DuHt3rfV4cICsJCgE30ackjcw==",
   "success": true,
-  "projectFilePath": "E:\\Documentos\\VisualStudio2019\\Angular\\lf-Package-Core\\Symas.SymasSalud.Models\\Symas.SymasSalud.Models.csproj",
+  "projectFilePath": "D:\\Documentos\\Git-Projects\\symas-angular-api\\Symas.SymasSalud.Models\\Symas.SymasSalud.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
